@@ -4,7 +4,7 @@
 - 👀 Interested in **Desktop Applications, AI, and Reverse Engineering**  
 - 🌱 Currently learning **C++, React, and software development techniques**  
 - 🚀 Working on **CLI & GUI applications and performance optimization**  
-- 📫 Reach me at *[ Discord: "9._x" ]*
+- 📫 Reach me at **[ Discord: "9._x" ]**
 
 ## ⚡ Fun Fact  
 💡 "Good code reads like a story, not a puzzle!"  
