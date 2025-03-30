@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ali!  
 💻 **A passionate programmer and developer exploring new technologies**  
 
-- 👀 Interested in **Desktop Applications, AI, and Reverse Engineering**  
+- 👀 Interested in **Desktop Applications, AI, and Web Applications**  
 - 🌱 Currently learning **C++, React, and software development techniques**  
 - 🚀 Working on **CLI & GUI applications and performance optimization**  
 - 📫 Reach me at **[ Discord: "9._x" ]**
